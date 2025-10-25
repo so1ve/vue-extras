@@ -17,7 +17,7 @@
     "@so1ve/eslint-config": "^3.9.0",
     "@so1ve/prettier-config": "^3.9.0",
     "@types/node": "^24.3.1 ",
-    "@typescript/native-preview": "7.0.0-dev.20251024.1",
+    "@typescript/native-preview": "7.0.0-dev.20251025.1",
     "bumpp": "^10.2.3",
     "eslint": "^9.35.0",
     "prettier": "^3.6.2",
